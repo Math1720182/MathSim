@@ -238,7 +238,10 @@ texte = {
 
             **Note on Theoretical Hourly Capacity (THRC):** You should use the THRC to get a realistic simulation. Below the THRC, the load is stable; above it, the load increases.
             """
+    },
+    "breakdown_help" : {
+        "fr" : "Ne pas mettre 14 pour 14h, mettre l'heure par rapport à son temps total d'ouverture, ici 3 pour la 3ème heure sur les 8h d'ouverture",
+        "en" : "Do not enter 14 for 2 PM; enter the hour relative to its total opening time (for instance, 3 for the 3rd hour of the 8-hour opening window)."
     }
-
 }
 
