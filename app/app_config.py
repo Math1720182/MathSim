@@ -16,10 +16,10 @@ st.markdown("""
 
 pages = {
     "Queue simulator": [
-        st.Page("pages/parc_attraction.py", title="Theme park", default=True)
+        st.Page("pages/theme_park.py", title="Theme park", default=True)
     ],
     "Other simulation": [
-        st.Page("pages/autre_simulation.py", title="*More simulations coming soon*")
+        st.Page("pages/other_simulation.py", title="*More simulations coming soon*")
     ]
 }
 
