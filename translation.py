@@ -1,7 +1,5 @@
 import streamlit as st
 
-#test
-
 def t(key):
 
     language = st.session_state.get("language", "fr") #default fr
